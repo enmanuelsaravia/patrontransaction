@@ -1,0 +1,6 @@
+Init
+New
+List
+Detail
+Edit
+Delete

@@ -1,0 +1,8 @@
+Valid
+Invalid
+Init
+New
+List
+Detail
+Edit
+Delete

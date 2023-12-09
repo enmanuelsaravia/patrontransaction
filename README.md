@@ -13,7 +13,7 @@ desarrollando un mismo flujo
 
 ## Inicio
 
-    git clone url && cd patronestransactions && npm i && npm run start
+    git clone https://github.com/enmanuelsaravia/patrontransaction.git && cd patronestransactions && npm i && npm run start
     
 ## Publicar
 

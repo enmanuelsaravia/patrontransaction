@@ -1,8 +1,9 @@
 # `PATRONESTRANSACTIONS`
 
-En `patronestransactions` se reforzará el uso de un patrón de software
-personal, explorando `frameworks` ejecutando validaciones en `bash` y
-desarrollando un mismo flujo
+En `patronestransactions` se reforzará el uso de un patrón de
+desarrollo, explorando diferentes `frameworks` de javascript y
+validadores escritos en `bash` para un flujo sencillo planteado en
+imágenes
 
 ## Requerimientos
 
